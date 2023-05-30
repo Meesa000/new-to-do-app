@@ -1,0 +1,10 @@
+.title-container {
+    display: flex;
+    justify-content: center;
+}
+.title-container h1{
+    font-size: 50px;
+    padding-top: 24px;
+    text-decoration-line: underline;
+    text-underline-offset: 5px;
+}
